@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+numpy
+pytest==4.0.2
+setuptools==40.6.3
+wheel==0.32.3

@@ -1,0 +1,21 @@
+Flask==1.0.2
+
+scikit-learn==0.21.3
+pandas==0.25.1
+numpy==1.17.2
+
+# packaging
+setuptools==40.6.3
+wheel==0.32.3
+
+pytest==4.0.2
+
+
+## regression_model package ##
+
+#To install from github:
+git+git://github.com/JoaquinRives/regression_package_V3
+
+# To install locally:
+#-e "/path-to-package/API_package_3.0/packages/regression_model"
+
