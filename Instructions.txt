@@ -1,15 +1,15 @@
 
-# Just clone or download the repository and run "Rest_API.3.0/requirements.txt"
-> pip install -r path/to/directory/Rest_API.3.0/requirements.txt
+# Just clone or download the repository and run "REST-API-3.0/requirements.txt"
+> pip install -r path/to/directory/REST-API-3.0/requirements.txt
 
-# The flask app is located on: API_package_0.3/packages/ml_api/api/application.py
+# The flask app is located on: REST-API-3.0/packages/ml_api/api/application.py
 
 
 # To install only the regression_model package locally:
->pip install -e \path\to\package\API_package_3.0\packages\regression_model
+>pip install -e \path\to\package\REST-API-3.0\packages\regression_model
 
 # To install only the regression_model package from github:
->pip install git+git://github.com/JoaquinRives/regression_package_V3
+>pip install git+git://github.com/JoaquinRives/regression-package-V3
 	
 
 

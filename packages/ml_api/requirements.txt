@@ -8,14 +8,14 @@ numpy==1.17.2
 setuptools==40.6.3
 wheel==0.32.3
 
-pytest==4.0.2
+pytest==5.2.0
 
 
 ## regression_model package ##
 
 #To install from github:
-git+git://github.com/JoaquinRives/regression_package_V3
+git+git://github.com/JoaquinRives/regression-package-V3
 
 # To install locally:
-#-e "/path-to-package/API_package_3.0/packages/regression_model"
+#-e "/path-to-package/REST-API-3.0/packages/regression_model"
 
