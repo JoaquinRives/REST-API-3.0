@@ -5,4 +5,4 @@ I have also added CI and testing with Azure Pipelines (Azure DevOps).
 
 - regression_package_V3: "https://github.com/JoaquinRives/regression_package_V3"
 
-- Azure DevOps project: "https://dev.azure.com/joaquinrives01/REST_API_3.0/_build?definitionId=3"
+- Azure DevOps project: "https://dev.azure.com/joaquinrives01/REST-API-3.0/_build?definitionId=5"
