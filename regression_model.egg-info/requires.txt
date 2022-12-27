@@ -1,6 +1,6 @@
 scikit-learn
 pandas
 numpy
-setuptools==40.6.3
+setuptools==65.5.1
 wheel==0.32.3
 pytest==4.0.2
